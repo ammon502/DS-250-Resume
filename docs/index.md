@@ -36,7 +36,7 @@ Computers:
 
 ●	Proficient in MS PowerPoint, Excel, and Word
 
-### Data Science Consulting Team
+## Data Science Consulting Team
 
 ### Volunteer Experience
 Religious Instructor- The Church of Jesus Christ of Latter-Day Saints,	Apr ‘19 - present
@@ -45,11 +45,11 @@ Religious Instructor- The Church of Jesus Christ of Latter-Day Saints,	Apr ‘19
 
   ●	Attended Regular Teacher Training
   
-  # Eagle Scout Award
+  ## Eagle Scout Award
   
-    ●	Received Eagle Scout - Aug 2017
+  ●	Received Eagle Scout - Aug 2017
   
-  # Various Leadership Positions - Boy Scouts of America, Dayton, Ohio	2010 - 2018
+  ## Various Leadership Positions - Boy Scouts of America, Dayton, Ohio	2010 - 2018
   
   ●	Organizing Campouts and various activities
   
@@ -59,7 +59,7 @@ Religious Instructor- The Church of Jesus Christ of Latter-Day Saints,	Apr ‘19
   
   ●	Assisted several young men to earn their Eagle Scout Award
   
-  # Bike Repair Volunteer - Bikes For All, Dayton, Ohio	Aug ‘16 – Dec ‘17
+  ## Bike Repair Volunteer - Bikes For All, Dayton, Ohio	Aug ‘16 – Dec ‘17
   
   ●	6 - 9 Hours per week
   
