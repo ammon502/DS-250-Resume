@@ -16,10 +16,15 @@ Data Science Student - BYUI
 ## Education
 
 B.S. Data Science, Brigham Young University–Idaho,	 Rexburg, Idaho Sep ‘18 ~ Apr ‘26
+
 •	DS 250
+
   o	Wrangle Data
+  
   o	Make Visualizations
+  
   o	Efficient at finding solutions to problems presented
+
 •	Taking DS 350
 
 ### Specialized Skills & Training
