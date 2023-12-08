@@ -24,7 +24,9 @@ B.S. Data Science, Brigham Young University–Idaho,	 Rexburg, Idaho Sep ‘18 ~
 
 ### Specialized Skills & Training
 Computers:
+
 ●	Beginner: C++, Python, Java, R, C#
+
 ●	Familiar with Mathematica, Matlab
 ●	Proficient in MS PowerPoint, Excel, and Word
 
