@@ -3,8 +3,7 @@ layout: cv
 title: Ammon Kellar's Resume
 ---
 # Ammon Kellar
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
-
+Data Science Student - BYUI
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
